@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ftfl.icare.DoctorProfileListActivity" >
+
+    <item
+        android:id="@+id/addMore"
+        android:icon="@drawable/addmore"
+        android:showAsAction="ifRoom|withText"
+        android:title="  Add More">
+    </item>
+
+</menu>
